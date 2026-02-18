@@ -1,0 +1,36 @@
+:root {
+  --preto-fundo: #232222;     
+  --preto-card: #444444;      
+  --verde-neon: #00ff41;      
+  --verde-suave: #00cc33;     
+  --branco-texto: #e0e0e0;    /* Aumentei um pouco o brilho (estava muito cinza) */
+  --cinza-texto: #9C9C9C;     /* Usei o seu cinza anterior para textos secundários */
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body, #root {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  min-height: 100vh; /* Ocupa pelo menos a altura da tela toda */
+  background-color: var(--preto-fundo);
+  color: var(--branco-texto);
+  font-family: 'JetBrains Mono', 'Fira Code', monospace;
+  overflow-x: hidden; /* Evita que a página "dance" para os lados */
+}
+
+/* Ajuste fino para links */
+a {
+  color: var(--verde-neon);
+  text-decoration: none;
+  transition: 0.3s;
+}
+
+a:hover {
+  color: #ffffff; /* Hover em branco puro fica mais moderno */
+}
