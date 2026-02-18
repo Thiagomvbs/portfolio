@@ -1,16 +1,56 @@
-# React + Vite
+# 🌐 Portfólio Pessoal - Thiago Monteiro
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📖 Sobre o projeto
 
-Currently, two official plugins are available:
+Este é meu site de portfólio pessoal, desenvolvido com o objetivo de apresentar minhas habilidades técnicas, projetos e trajetória como desenvolvedor.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+O site funciona como minha identidade profissional online, permitindo que recrutadores, empresas e colaboradores conheçam melhor meu perfil, minhas tecnologias e meus trabalhos.
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🚀 Acesse o projeto
 
-## Expanding the ESLint configuration
+🔗 **Link do site:**  
+https://portfolio-thiago-monteiro.vercel.app/
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## ✨ Funcionalidades
+
+- 📌 Apresentação pessoal
+- 💻 Exibição das tecnologias que domino
+- 📂 Listagem de projetos desenvolvidos
+- 📱 Design responsivo
+- ⚡ Interface rápida e moderna
+- 🌐 Deploy em produção
+
+---
+
+## 🛠️ Tecnologias utilizadas
+
+Frontend:
+- HTML
+- CSS
+- JavaScript
+- React
+- Vite
+
+Deploy:
+- Vercel
+
+Versionamento:
+- Git
+- GitHub
+
+---
+
+## 🧠 Objetivo
+
+Este projeto foi desenvolvido com o objetivo de:
+
+- Consolidar meus conhecimentos em desenvolvimento frontend
+- Criar uma presença profissional online
+- Demonstrar minhas habilidades práticas
+- Servir como vitrine para meus projetos
+
+---
